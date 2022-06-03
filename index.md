@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# LolWare
+# 
+## Présentation
+#### Je suis un jeune développeur Français de 16ans, les langages que je partique sont : 
+2. Python
+2. Ruby
+2. Les langages web de base (html, css, js)
+2. C# (je débute)
+2. C++ (je débute aussi)
+2. Batch (oui ça sert des fois)
+2. VBS (VB Script)
+2. VB (Visual Basic)
+2. LolCode
+2. CoffeeScript
+2. Emoticon (je débute)
+2. Et voilà !
 
-You can use the [editor on GitHub](https://github.com/LolWare95/portofolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Quesque je propose ?
+#### Je travaille sur plusieurs projets : 
+2. Un R.A.T. Builder
+2. Un KeyLogger Builder
+2. Un Framework de PenTesting
+2. Et une WebApp dans le style de discord mais avec moins de gens violents et pas sympas ! Et aussi un design un peut plus h4x0r pour un rendu plus gang !
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### En attendant je propose actuellement : 
+2. Des tokens grabbers builders par milliers pour satisfaire le plus grand monde
+2. Des panels multi-usages : Nuclear Panel / Hacking Panle Premium
+2. Des tools de DoS / DDoS : Demon DDoS Panel / Advanced DoS Tool
+2. Et voilà !
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LolWare95/portofolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Merci d'avoir pris le temps de regarder mon Portofolio :) 

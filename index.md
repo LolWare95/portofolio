@@ -1,5 +1,5 @@
 # LolWare
-# 
+
 ## Présentation
 #### Je suis un jeune développeur Français de 16ans, les langages que je partique sont : 
 2. Python
@@ -24,7 +24,7 @@
 
 #### En attendant je propose actuellement : 
 2. Des tokens grabbers builders par milliers pour satisfaire le plus grand monde
-2. Des panels multi-usages : Nuclear Panel / Hacking Panle Premium
+2. Des panels multi-usages : Nuclear Panel / Hacking Panel Premium
 2. Des tools de DoS / DDoS : Demon DDoS Panel / Advanced DoS Tool
 2. Et voilà !
 
